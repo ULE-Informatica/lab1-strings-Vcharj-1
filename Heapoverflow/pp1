@@ -1,0 +1,4 @@
+#!/usr/bin/python 
+print("X" * 90);
+#print('X' * 70 +'YAYBYCYDYEYFYG');
+#print('X' * 79 +'CDEF');
